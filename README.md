@@ -1,3 +1,3 @@
 # html-oksana
 html and css code
-Project URL: https://oksanavshn.github.io/html-oksana/lerncode.html
+Project URL: https://github.com/OksanaVshn/html-oksana
